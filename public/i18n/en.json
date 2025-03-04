@@ -1,0 +1,45 @@
+
+   
+   {
+    "navbar":{
+      "home": "Home",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "products": "Products",
+    "categories": "Categories",
+    "brands": "Brands",
+    "register": "Register",
+    "login": "Login",
+    "lang":"Lang"
+   
+    },
+    
+   "login":{
+    "loginNow": "Login Now",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password",
+    "resetPassword": "Reset Password",
+    "logout": "Logout",
+    "search": "Search",
+    "productDetails": "Product Details",
+    "resetcode":"reset Code",
+    "signIn": "Sign In",
+    "newPassword":"newPassword"
+   },
+   "Register":{
+    "registerNow": "Register Now",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "rePassword": "rePassword",
+    "phone": "phone",
+    "SignUp":"SignUp"
+
+   }
+    
+  }
+  
+    
+  
+  

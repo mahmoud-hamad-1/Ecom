@@ -1,0 +1,33 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "cart": "عربة التسوق",
+    "wishlist": "قائمة الرغبات",
+    "products": "المنتجات",
+    "categories": "الفئات",
+    "brands": "العلامات التجارية",
+    "register": "تسجيل",
+    "login": "تسجيل الدخول",
+    "lang": "اللغة"
+  },
+  "login": {
+    "loginNow": "تسجيل الدخول الآن",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "logout": "تسجيل الخروج",
+    "search": "بحث",
+    "productDetails": "تفاصيل المنتج",
+    "signIn": "تسجيل الدخول"
+  },
+  "Register": {
+    "registerNow": "سجل الآن",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "rePassword": "إعادة كلمة المرور",
+    "phone": "الهاتف",
+    "SignUp": "إنشاء حساب"
+  }
+}
